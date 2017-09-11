@@ -1,0 +1,7 @@
+#root{
+    -fx-max-width: 446px;
+    -fx-max-height: 775px;
+    -fx-background-image: url(img/gamePlace.jpg);
+    -fx-background-repeat: stretch;
+    -fx-background-position: center center;
+}
